@@ -1,0 +1,32 @@
+{
+  "en": {
+    "name": "Yenghoua",
+    "home": "Home",
+    "service": "Service",
+    "skills": "Skills",
+    "education": "Education",
+    "experience": "Experience",
+    "contact": "Contact",
+    "hello": "Hello",
+    "iam_yenghoua": "I'm Yenghoua",
+    "iam_a": "I'm a",
+    "web_developer": "web developer",
+    "about_me": "Passionate about building things on the web, I’m someone who loves turning ideas into interactive experiences. As a web developer, I enjoy writing clean code, solving creative problems, and constantly learning new technologies to improve my craft. Whether it's front-end design or back-end logic, I take pride in every project I work on.",
+    "hire_me": "Hire me"
+  },
+  "lo": {
+    "name": "Yenghoua",
+    "home": "ໜ້າຫຼັກ",
+    "service": "ບໍລິການ",
+    "skills": "ທັກສະ",
+    "education": "ການສຶກສາ",
+    "experience": "ປະສົບການ",
+    "contact": "ຕິດຕໍ່",
+    "hello": "ສະບາຍດີ",
+    "iam_yenghoua": "ຂ້ອຍຊື່ Yenghoua",
+    "iam_a": "ຂ້ອຍແມ່ນ",
+    "web_developer": "ນັກພັດທະນາເວັບ",
+    "about_me": "ຂ້ອຍມີຄວາມຫຼົງໃນການສ້າງສິ່ງຕ່າງໆບນເວັບ ແລະມັກໃຊ້ຄວາມຄິດສ້າງສັນເພື່ອສ້າງປະສົບການທີ່ດີສໍາລັບຜູ້ໃຊ້. ຂ້ອຍມັກຂຽນລະຫັດທີ່ສະອາດ ແກ້ໄຂບັນຫາໄດ້ຢ່າງສ້າງສັນ ແລະຮຽນຮູ້ເທັກໂນໂລຢີໃໝ່ໆຢູ່ຕະຫຼອດເວລາ.",
+    "hire_me": "ຈ້າງຂ້ອຍ"
+  }
+}

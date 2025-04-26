@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yenghoua-portfolio</title>
+  <link rel="stylesheet" href="../cssportfolio/index.css" />
+  <script src="https://kit.fontawesome.com/3e987e7994.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="container01">
+    <div class="header">
+      <div class="left-header">
+        <h1 data-i18n="name">Yenghoua</h1>
+      </div>
+      <div class="right-header">
+        <ul>
+          <li data-i18n="home">Home</li>
+          <li data-i18n="service">Service</li>
+          <li data-i18n="skills">Skills</li>
+          <li data-i18n="education">Education</li>
+          <li data-i18n="experience">Experience</li>
+          <li data-i18n="contact">Contact</li>
+          <div class="turn-darkMode">
+            <button onclick="toggleDarkMode()">
+              <i class="fa-solid fa-lightbulb"></i>
+            </button>
+          </div>
+          <div class="translatetion">
+            <div class="translate-buttons">
+              <button id="toggle-lang-btn" data-lang="en"><i class="fa-solid fa-globe"></i></button>
+            </div>
+          </div>
+        
+
+
+
+        </ul>
+        <div class="meanu">
+          <i class="fa-solid fa-bars"></i>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="bodytest">
+      <div class="bodytest-left">
+        <img class="image-wrapper" src="../image/WhatsApp Image 2025-04-20 at 09.49.48_fef3cc09.jpg" alt="Profile" />
+      </div>
+      <div class="bodytest-right">
+        <h1>
+          <span data-i18n="hello">Hello</span>
+          <span data-i18n="iam_yenghoua">I'm Yenghoua</span>
+        </h1>
+        <h2>
+          <span data-i18n="iam_a">I'm a</span>
+          <span data-i18n="web_developer">web developer</span>
+        </h2>
+        <p data-i18n="about_me">
+          Passionate about building things on the web, I'm someone who loves turning ideas into interactive experiences.
+          As a web developer, I enjoy writing clean code, solving creative problems, and constantly learning new
+          technologies to improve my craft. Whether it's front-end design or back-end logic, I take pride in every
+          project I work on.
+        </p>
+
+        <div class="media-icons">
+          <i class="fa-brands fa-facebook"></i>
+          <i class="fa-brands fa-whatsapp"></i>
+          <i class="fa-brands fa-x-twitter"></i>
+          <i class="fa-brands fa-instagram"></i>
+        </div>
+        <button data-i18n="hire_me">Hire me</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle("dark-mode");
+    }
+  </script>
+
+  <script type="module" src="../service/index.js"></script>
+</body>
+
+</html>
